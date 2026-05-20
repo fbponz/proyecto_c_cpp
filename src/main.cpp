@@ -3,6 +3,6 @@
 
 int main() {
     std::cout << "2 + 3 = " << suma(2, 3) << '\n';
-    std::cout << "Funciona \n" ;
+    std::cout << "Funciona si o no \n" ;
     return 0;
 }
